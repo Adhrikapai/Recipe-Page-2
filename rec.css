@@ -1,0 +1,25 @@
+
+header {
+  background: black;
+  color:white;
+  font-size: 4em;
+}
+
+h1{
+    font-family: Helvetica neue;
+}
+
+body{
+  background-image: url("tr.jpg");
+  background-repeat: no repeat;
+  margin: 50px 50px 50px 50px;
+}
+
+#recipe{
+  text-align: center;
+  font-size: 2em;
+}
+
+a{
+  color: black;
+}
